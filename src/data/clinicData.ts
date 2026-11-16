@@ -1,3 +1,9 @@
+import heroClinicImg from '../assets/images/hero_dermatology_clinic_1794794099783.jpg';
+import consultationOverviewImg from '../assets/images/consultation_overview_1794794100842.jpg';
+import hairCareImg from '../assets/images/treatment_hair_care_1794794100968.jpg';
+import skinCareImg from '../assets/images/treatment_skin_care_1794794100999.jpg';
+import clinicInteriorImg from '../assets/images/clinic_interior_jodhpur_1794794102735.jpg';
+
 export const CLINIC_INFO = {
   doctorName: 'Dr. Somodyuti Chandra',
   bengaliName: 'দ্র সমদ্যুতি চন্দ্র',
@@ -28,11 +34,11 @@ export const IMAGES = {
     'https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QTdOzoACjtmpeFeAlH8UxW5GXenZQib4Z-MF4NUXKUK0sIlDAqOqdFI5RhvkBTrWAMkVwehkvCpOmsEof-V3SCO82gGVXhK0nYxh0KoH4Y4t-Aek4SdaYzkJcNa7XRSCkMGdBF5DtRV8Q9=w224-h298-k-no',
   doctorSecondary:
     'https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tls-gFDvkOxrmf-aRNa59BkH38OfMrrQTI0pHGLNY6pib3BPbSGLmEdOkQrHmngqutFZaTxxOHyUSXtRxEshk4GdnSUx67UitiozuIFUndOMPAi1zAZbegMimdeRD5J6RPIxid7_d5VpaN=w203-h135-k-no',
-  heroClinic: '/src/assets/images/hero_dermatology_clinic_1794794099783.jpg',
-  consultationOverview: '/src/assets/images/consultation_overview_1794794100842.jpg',
-  hairCare: '/src/assets/images/treatment_hair_care_1794794100968.jpg',
-  skinCare: '/src/assets/images/treatment_skin_care_1794794100999.jpg',
-  clinicInterior: '/src/assets/images/clinic_interior_jodhpur_1794794102735.jpg',
+  heroClinic: heroClinicImg,
+  consultationOverview: consultationOverviewImg,
+  hairCare: hairCareImg,
+  skinCare: skinCareImg,
+  clinicInterior: clinicInteriorImg,
 };
 
 export interface NavItem {
