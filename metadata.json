@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Somodyuti Chandra | Skin & Hair Clinic Kolkata",
+  "description": "Personalized dermatological and hair care consultations with Dr. Somodyuti Chandra at Wizderm Speciality Skin and Hair Clinic, Jodhpur Park, Kolkata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
